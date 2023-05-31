@@ -1,0 +1,9 @@
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\StockModel\obj\Debug\netcoreapp3.1\StockModel.AssemblyInfoInputs.cache
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\StockModel\obj\Debug\netcoreapp3.1\StockModel.AssemblyInfo.cs
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\StockModel\obj\Debug\netcoreapp3.1\StockModel.csproj.CoreCompileInputs.cache
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\StockModel\bin\Debug\netcoreapp3.1\StockModel.deps.json
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\StockModel\bin\Debug\netcoreapp3.1\StockModel.dll
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\StockModel\bin\Debug\netcoreapp3.1\StockModel.pdb
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\StockModel\obj\Debug\netcoreapp3.1\StockModel.dll
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\StockModel\obj\Debug\netcoreapp3.1\StockModel.pdb
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\StockModel\obj\Debug\netcoreapp3.1\StockModel.csprojAssemblyReference.cache

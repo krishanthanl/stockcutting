@@ -1,0 +1,29 @@
+{
+	"CuttingItems": [
+		{
+			"ItemName":"Test Item 1",
+			"ItemLength": 125,
+			"ItemQty": 10,
+			"MainBarLength": 600
+		},
+		{
+			"ItemName":"Test Item 1",
+			"ItemLength": 80,
+			"ItemQty": 12,
+			"MainBarLength": 600
+		},
+		{
+			"ItemName":"Test Item 2",
+			"ItemLength": 130,
+			"ItemQty": 12,
+			"MainBarLength": 500
+		},
+		{
+			"ItemName":"Test Item 2",
+			"ItemLength": 180,
+			"ItemQty": 6,
+			"MainBarLength": 500
+		}
+	],
+	"CuttingWaiste": 3
+}

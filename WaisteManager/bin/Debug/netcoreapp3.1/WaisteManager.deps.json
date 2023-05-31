@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WaisteManager/1.0.0": {
+        "dependencies": {
+          "StockModel": "1.0.0"
+        },
+        "runtime": {
+          "WaisteManager.dll": {}
+        }
+      },
+      "StockModel/1.0.0": {
+        "runtime": {
+          "StockModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WaisteManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

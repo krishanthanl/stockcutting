@@ -1,0 +1,12 @@
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\WaisteManager\obj\Debug\netcoreapp3.1\WaisteManager.csprojAssemblyReference.cache
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\WaisteManager\obj\Debug\netcoreapp3.1\WaisteManager.AssemblyInfoInputs.cache
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\WaisteManager\obj\Debug\netcoreapp3.1\WaisteManager.AssemblyInfo.cs
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\WaisteManager\obj\Debug\netcoreapp3.1\WaisteManager.csproj.CoreCompileInputs.cache
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\WaisteManager\bin\Debug\netcoreapp3.1\WaisteManager.deps.json
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\WaisteManager\bin\Debug\netcoreapp3.1\WaisteManager.dll
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\WaisteManager\bin\Debug\netcoreapp3.1\WaisteManager.pdb
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\WaisteManager\bin\Debug\netcoreapp3.1\StockModel.dll
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\WaisteManager\bin\Debug\netcoreapp3.1\StockModel.pdb
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\WaisteManager\obj\Debug\netcoreapp3.1\WaisteManager.csproj.CopyComplete
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\WaisteManager\obj\Debug\netcoreapp3.1\WaisteManager.dll
+C:\Krishantha\Projects\BitBucketRepo\StockCutting\WaisteManager\obj\Debug\netcoreapp3.1\WaisteManager.pdb
